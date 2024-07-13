@@ -41,5 +41,6 @@ public class Program {
         System.out.println("Account: "+number+","+" Holder: "+name+","+" Balance: R$"+account.getDeposit());
 
 
+        sc.close();
     }
 }
